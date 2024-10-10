@@ -38,7 +38,7 @@ First of all, note that on an infinite grid, each cell has exactly 8 neighbors. 
 To implement this game, the infinite grid is considered as a toroidal matrix. The grid will be represented by a matrix where the right and left edges are connected to each other, as well as the top and bottom edges.<br> You can use the rand() function for initializing the grid.
 </p>
 
-## 🛠️ Requirements Linux/
+## 🛠️ Requirements Linux
 
 ```bash
 sudo apt update && sudo apt upgrade -y
